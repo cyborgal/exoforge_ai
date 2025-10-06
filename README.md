@@ -9,3 +9,6 @@ A Streamlit application that classifies potential exoplanets, visualizes light-c
 - **Generative Planet Builder**: after any prediction, a custom Plotly visualization, story, and downloadable planet card are generated based on the planet’s characteristics.
 - **Retraining Workflow**: optional retraining with community data captured during app usage.
 
+## Access the Project
+https://exoforgeai.streamlit.app/
+
